@@ -6,4 +6,4 @@ Here's another project from among my front-end learning journey. I hope you like
 This small and simple project was created using HTML, CSS, and JavaScript.
 
 If you enjoyed it, I would greatly appreciate it if you could give it a star. Thank you! You can access the project page through this link and explore it further.
-link: https://salehmb1999.github.io/smartInputLength/
+link: https://salehmb1999.github.io/CharCounterInput/
