@@ -1,0 +1,64 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  background-color: rgb(15, 185, 185);
+}
+.wrapper {
+    width: 35rem;
+    height: 5rem;
+    margin: 40rem auto 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    color: #909090;
+    font-size: 2rem;
+    padding: 3rem 13rem;
+    border-radius: 1.5rem;
+    border: 4px solid rgb(15, 185, 185);
+
+}
+.input {
+    margin-left: 1rem;
+    outline: none;
+    border: none;
+    font-size: 2rem;
+    color: #909090;
+
+}
+.adSign {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-right: 1rem;
+}
+.leftLetters {
+    width: 2rem;
+    border-left: 2px solid #909090;
+    padding-left: .5rem;
+    
+}
+.wrapperActive {
+    border: 4px solid rgb(21, 89, 89);
+    color: rgb(21, 89, 89);
+}
+.adSignActive {
+    color: rgb(21, 89, 89);
+
+}
+.leftLettersActive {
+    color: rgb(21, 89, 89);
+    border-left: 2px solid rgb(21, 89, 89);
+
+}
